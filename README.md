@@ -1,4 +1,7 @@
 # skCryptX
+
+ - NotDB and Viper was here :0
+ 
  skCrypt improved
  
 - improved using a fnv1a hash
