@@ -24,7 +24,7 @@
 ![image](https://github.com/user-attachments/assets/1f5c42cd-a967-4be8-a7c3-89ee6e5b32da)
 
 
-# skCrypter
+# skCrypter readme
 
 # Compile-time, Usermode + Kernelmode, safe and lightweight string crypter library for C++11+
 
