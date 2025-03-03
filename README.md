@@ -6,7 +6,7 @@
  
 - improved using a fnv1a hash
 
-- added increased randomization
+- increased randomization
 
 - origonal creator https://github.com/skadro-official/skCrypter
 
